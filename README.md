@@ -1,5 +1,8 @@
 # projeto_crud
 
+Antes de executar o projeto, verificar se o backend (PHP) está configurado e rodando na porta 80.
+acesse a url http://localhost/api/show para ver a lista de endpoints.
+
 ## Project setup
 ```
 npm install
@@ -19,6 +22,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
